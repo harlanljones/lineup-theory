@@ -1,1 +1,5 @@
-All data sourced from the Sports Reference Stathead Database
+### Data Sourcing
+
+All data sourced from Sports Reference / Stathead database
+
+Data was gathered during September of 2025
